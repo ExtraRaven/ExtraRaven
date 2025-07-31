@@ -1,4 +1,4 @@
-I am a student at Keele University, doing a course on Astrophysics and Computer Science! It's going...
+I did computer science in school, and think it's neat!
 
 I like coding in C++ and that sort of style. Python is ok but boring.
 Trying out using github for some projects such as part of one of my university groups, SPARK!
